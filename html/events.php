@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
+<!-- <style>
 .hide {
     display: none;
 }
@@ -8,7 +8,7 @@
 .show {
     display: block;
 }
-</style>
+</style> -->
 
 <head>
     <meta charset="UTF-8">

@@ -15,5 +15,5 @@ if (isset($_POST['esubmit'])) {
     //    else{
     //       die(mysqli_error($conn));
     //        } 
-    header('location://localhost/project/events.php');
+    header('location://localhost/ers/html/events.php');
 }
